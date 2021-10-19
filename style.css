@@ -1,0 +1,32 @@
+.style1{
+    border: 1px solid rgb(216, 216, 216, 0.2);
+    background-color: rgba(216, 216, 216, 0.2);
+    border-radius: 3%;
+    width: 400;
+    height: 600;
+    position: relative;
+    margin-top: 80;
+}
+.style2{
+    position: absolute;
+    bottom: 20;
+}
+button{
+    width: 75;
+    height: 75;
+    margin: 7;
+    font-size: 30;
+    border-radius: 10px;
+    background-color: rgba(184, 32, 32, 0.945);
+}
+.style3{
+    border: 0.1px solid black ;
+    height: 180;
+    background-color: rgb(20, 20, 20);
+    text-align:left;
+    font-size: 50; 
+    color: rgb(202, 43, 43);
+    width: 90%;
+    margin-right: 15;
+    margin-bottom:20 ;
+}
